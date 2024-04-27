@@ -1,0 +1,14 @@
+
+
+h1{
+  color: red;
+  align-items:center;
+}
+
+
+img{
+  width: 100%;
+  height: 50%;
+  border-radius:9px solid #23534d;
+  margin:25px;
+}
